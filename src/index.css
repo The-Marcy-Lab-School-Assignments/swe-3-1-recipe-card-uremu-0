@@ -10,7 +10,25 @@ ul {
 }
 
 img {
-  width: 100%;
+  width: 30%;
+
 }
 
+
 /* Add your CSS below */
+
+body {
+  background-color: azure;
+  color: green;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h1,
+h2 {
+  color: burlywood;
+  font-size: medium;
+  text-decoration: none;
+}
+
+a :hover {}
